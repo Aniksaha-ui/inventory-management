@@ -77,7 +77,7 @@
 
                      </ul>
                  </li>
-                 {{--
+
                  <li>
                      <a href="javascript: void(0);" class="has-arrow waves-effect">
                          <i class="ri-oil-fill"></i>
@@ -90,7 +90,7 @@
 
                      </ul>
                  </li>
-
+                 {{--
                  <li>
                      <a href="javascript: void(0);" class="has-arrow waves-effect">
                          <i class="ri-compass-2-fill"></i>
